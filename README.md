@@ -1,9 +1,10 @@
 # DjangoNuxt
 Integration of Django + Webpack + Nuxt
 
-Estoy trabajando en un proyecto que integre Nuxt y Django juntos sin perder los beneficios de ambos como lo hicieron Mike Hoolehan (https://medium.com/@ilikerobots) en https://medium.com/js-dojo/vue-django-best-of-both-frontends-701307871478 y Rodrigo Smaniotto (https://medium.com/@rodrigosmaniotto) en https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a para integrar Vue y Django
+I am working on a project that integrates Nuxt and Django together without losing the benefits of both as Mike Hoolehan (https://medium.com/@ilikerobots) at https://medium.com/js-dojo/vue-django-best-of-both-frontends-701307871478 and Rodrigo Smaniotto (https://medium.com/@rodrigosmaniotto) at https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a did to integrate Vue and Django.
 
 
-Para eso llevo varias semanas de lecturas comprendiendo un poco mas webpack y como configurarlo en Nuxt, e utilizado las configuraciones para hotMiddleware y devMiddleware, todo este trabajo me a llevado hasta aca pero aun no logro que ambos queden integrados de una manera limpia, ya que Django me toma los estilos y diseños de Nuxt y nuxt se pierde entre las urls de django 
+That's why I've been reading for several weeks understanding a little more webpack and how to configure it in Nuxt, and used the configurations for hotMiddleware and devMiddleware, all this work has taken me here but I still can not get both integrated in a clean way, because Django takes me the styles and designs of Nuxt and nuxt is lost in the urls of django. 
 
-Agradezco mucho si alguien puede colaborarme en este proceso
+I am very grateful if anyone can assist me in this process.
+
